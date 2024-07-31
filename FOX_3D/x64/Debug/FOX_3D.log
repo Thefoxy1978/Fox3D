@@ -1,10 +1,1 @@
-﻿  InputSYT.cpp
-  main.cpp
-  Wind.cpp
-  WindColor.cpp
-  Triangle.cpp
-  Generazione del codice in corso...
-C:\Users\gengi\Desktop\Progetti\Fox3D\FOX_3D\src\Window\Wind.cpp(55,1): warning C4715: 'CreateWind': non tutti i percorsi di controllo restituiscono un valore
-  glad.c
-LINK : warning LNK4098: la libreria predefinita 'MSVCRT' è in conflitto con l'utilizzo di altre librerie; usare /NODEFAULTLIB:libreria
-  FOX_3D.vcxproj -> C:\Users\gengi\Desktop\Progetti\Fox3D\x64\Debug\FOX_3D.exe
+﻿  FOX_3D.vcxproj -> C:\Users\gengi\Desktop\Progetti\Fox3D\x64\Debug\FOX_3D.exe
