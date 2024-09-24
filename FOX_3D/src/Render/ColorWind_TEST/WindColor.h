@@ -1,1 +1,0 @@
-void WindColor_TEST();

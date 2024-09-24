@@ -132,18 +132,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\Input\InputSYT.cpp" />
     <ClCompile Include="src\glad.c" />
     <ClCompile Include="src\main.cpp" />
-    <ClCompile Include="src\Window\Wind.cpp" />
-    <ClCompile Include="src\Render\ColorWind_TEST\WindColor.cpp" />
-    <ClCompile Include="src\Render\Triangle\Triangle.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="src\Input\InputSYT.h" />
-    <ClInclude Include="src\Window\Wind.h" />
-    <ClInclude Include="src\Render\ColorWind_TEST\WindColor.h" />
-    <ClInclude Include="src\Render\Triangle\Triangle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
